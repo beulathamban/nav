@@ -28,3 +28,5 @@ git push -u origin master
 # when pulling from remote
 git pull 
 
+# when pushing again
+git push
